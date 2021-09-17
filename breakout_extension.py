@@ -1,12 +1,4 @@
-"""
-stanCode Breakout Project
-Adapted from Eric Roberts's Breakout by
-Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
-and Jerry Liao.
-
-This program is the breakout game extension.
-"""
-
+# import packages
 from campy.gui.events.timer import pause
 from breakoutgraphics_extension import BreakoutGraphics
 from campy.gui.events.mouse import onmouseclicked
